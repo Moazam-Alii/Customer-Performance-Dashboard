@@ -34,10 +34,27 @@ This **Power BI** project presents an interactive **Customer Performance Dashboa
 - Provides data-driven insights for **marketing strategies and revenue optimization**.
 - Assists in **customer segmentation** for better-targeted campaigns.
 
-##  How to Use
-1. **Download** the Power BI file from this repository.
-2. **Open in Power BI Desktop**.
-3. **Interact with filters and visualizations** to explore customer insights.
+## Project Outcomes
+
+1. **Enhanced Customer Insights**  
+   - Provides a clear understanding of **customer demographics**, including age, gender, and family status.  
+   - Identifies **key customer segments**, such as loyal customers, periodic buyers, and VIP customers.
+
+2. **Revenue Optimization**  
+   - Analyzes **revenue contribution by different age groups and gender**.  
+   - Helps businesses identify **high-value customer segments** to maximize profitability.
+
+3. **Data-Driven Decision Making**  
+   - Enables businesses to **fine-tune marketing strategies** by targeting specific customer groups.  
+   - Supports **personalized promotions** by identifying trends in customer purchases.
+
+4. **Improved Business Strategies**  
+   - Assists in **resource allocation** based on revenue distribution insights.  
+   - Helps in forecasting customer demand and improving customer retention.
+
+5. **User-Friendly Dashboard Experience**  
+   - Offers **both Light and Dark modes** for better user experience.  
+   - Provides **interactive visuals** that allow users to explore data dynamically.
 
 ##  Future Enhancements
 - Integration of real-time data sources.
